@@ -16,7 +16,7 @@ JavaScript, MongoDB, React, bootstrap, Node.js
 To clone the repo run ```git clone git@github.com:CorgiPower11/book-search-engine.git``` in your terminal. After cloning the repo, run ```npm install``` to install the necessary dependencies.
 
 ### Usage
-After installing all the dependencies, run ```npm start``` in your terminal to start the application. 
+After installing all the dependencies, run ```npm run develop``` in your terminal to start the application. 
 
 ### User Story
 AS AN avid reader<br>
