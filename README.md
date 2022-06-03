@@ -24,4 +24,4 @@ I WANT to search for new books to read<br>
 SO THAT I can keep a list of books to purchase<br>
 
 ### Deployed
-Heroku: [https://mighty-sea-46264.herokuapp.com/](https://mighty-sea-46264.herokuapp.com/)
+Heroku: [https://afternoon-earth-47945.herokuapp.com/](https://afternoon-earth-47945.herokuapp.com/)
